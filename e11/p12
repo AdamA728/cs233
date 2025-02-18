@@ -1,0 +1,4 @@
+#!/bin/bash 
+firstname="Dobrilo"
+lastname="Ingalill"
+echo "Hello, $firstname $lastname! Nice to meet you."
